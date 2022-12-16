@@ -1,0 +1,125 @@
+
+
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+.myimg{
+    width: 50% !important;
+}
+.myitalics{
+    font-size: italic;
+}
+.myrh{
+    font-family: 'Times New Roman', serif;
+    color: black;
+}
+.rbackground{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/blnkwhitepaperresume.jpg") !important;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  img
+  { margin-left: auto !important;
+    margin-right: auto !important;
+    border: 3px solid black !important;
+}
+.topofpg
+{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-align: center;
+    color: #f6e1c5;
+
+}
+ .help {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  } 
+  
+ li a:hover {
+    background-color: #111;
+    text-decoration: underline;
+  }
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color:darkslateblue;
+}
+li {
+    font-size: 15px;
+    font-style:italic;
+    font-weight:unset;
+}
+a {
+    font-weight: bold;
+    font-size: 25;
+    text-decoration: whitesmoke;
+    
+}
+
+ a:visited {
+    color: gray;
+}
+.reshead{
+    font-weight: bold;
+    font-style: normal;
+}
+.underline{text-decoration: underline;}
+.align{text-align: center;} */ */
+body {
+    background-image:linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)),url(../assets/img/jetski.jpeg) !important;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  .topright {
+    position: absolute;
+    top: 135px;
+    right: 16px;
+    font-size: 18px;
+  }
+  .topright2 {
+    position: absolute;
+    top: 460px;
+    right: 16px;
+    font-size: 19px;
+  }
+  .topright3 {
+    position: absolute;
+    top: 510px;
+    right: 16px;
+    font-size: 18px;
+  }
+  .stable {
+width: 700 !important;
+  }
+  .header {
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: black;
+  }
+  .textcolor
+  {
+    color: aliceblue;
+  }
